@@ -1,7 +1,12 @@
 body {
   background-color:  white !important;
 }
+.metin h2{
+  background-color: aqua;
+  color: rgb(213, 37, 149);
+  font-size: 5rem;
 
+}
 
 .ara{color: aliceblue;
   color: #ffffff	;
